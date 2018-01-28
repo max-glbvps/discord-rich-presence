@@ -1,0 +1,10 @@
+{
+  'clientid': '',
+  'application_name': '',
+  'middle_msg': '',
+  'last_msg': '',
+  'large_image': 'large_img',
+  'large_image_text': 'large text',
+  'small_image': 'small_img',
+  'small_image_text': 'small text
+}
