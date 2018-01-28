@@ -1,0 +1,32 @@
+{
+  "name": "discord-rich-presence",
+  "version": "1.0.0",
+  "description": "Discord Rich Presence offers a lot of configuration for your rich presence Discord account.",
+  "main": "app.js",
+  "dependencies": {
+    "discord-rich-presence": "^0.0.6",
+    "moment": "^2.20.1",
+    "parse-duration": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max-glbvps/discord-rich-presence.git"
+  },
+  "keywords": [
+    "rich",
+    "presence",
+    "discord",
+    "api",
+    "rpc"
+  ],
+  "author": "Max Choi-Deyoung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/max-glbvps/discord-rich-presence/issues"
+  },
+  "homepage": "https://github.com/max-glbvps/discord-rich-presence#readme"
+}
