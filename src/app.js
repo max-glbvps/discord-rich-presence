@@ -8,7 +8,7 @@ client.updatePresence({
  name: config.application_name,
  details: config.middle_msg,
  state: config.last_msg,
- startTimestamp: startTimestamp: moment(new Date()).add(parse("-0s"), "ms").toDate(),
+ startTimestamp: moment(new Date()).add(parse("-0s"), "ms").toDate(),
  largeImageKey: config.large_image,
  largeImageText: config.large_image_text,
  smallImageKey: config.small_image,
