@@ -1,2 +1,4 @@
 # discord-rich-presence
-Tutorial for Discord Rich Presence on DiscordApp (discordapp.com)
+
+
+The code is offered in the src folder.
