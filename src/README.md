@@ -14,6 +14,7 @@
 NOTE: Do not create a bot user or it will not work and not be sucessful to put on your Discord acccount.
 3. Go to the bottom of the page and enable Rich Presence.
 4. In the asset field, put the largeImage or whatever you configured as the name for the rich presence image area.
+5. Install the modules for NODE.js by running ``npm install``
 
 **NOTE**: You must be logged in to your Discord account through one of the Discord applications such as Discord Canary on Windows or any other operating system, you must have downloaded Discord to your operating system.
 
