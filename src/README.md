@@ -27,5 +27,4 @@ To run the Rich Presence, you need to have Node.js 8.0.0 and NPM installed on yo
 If you are in the need of assistance, please create an issue ticket on the GitHub project area.
 
 ### Screenshots
-![Screnshot 2](https://images.globalvps.org/2p1tp.png)
-![Screenshot 1](https://images.globalvps.org/yrizu.png)
+Our screenshot uploader is currently down and is no longer available, for further assistance please create an "Issue" above.
