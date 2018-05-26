@@ -4,6 +4,9 @@ const client = require("discord-rich-presence")(config.clientid)
 const moment = require("moment")
 const parse = require("parse-duration")
 
+console.log("Please wait roughly 10 seconds to view your rich presence, please make sure no other game or RPC is interfering with your Discord profile.")
+console.log("While viewing your game status on the profile area in settings, you may see nothing this is due to the RPC working on your profile.")
+
 client.updatePresence({
  name: config.application_name,
  details: config.middle_msg,
