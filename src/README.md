@@ -1,7 +1,7 @@
 ## Discord Rich Presence
 
-[![Version](https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square)](https://github.com/max-glbvps/discord-rich-presence/releases)
-[![Status](https://img.shields.io/badge/Status-Indev-green.svg?style=flat-square)]()
+[![Version](https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square)](https://github.com/max-glbvps/discord-rich-presence/releases)
+[![Status](https://img.shields.io/badge/Status-Stable-green.svg?style=flat-square)]()
 [![Node](https://img.shields.io/badge/Node-8.0.0-blue.svg?style=flat-square)](http://nodejs.org)
 [![NPM](https://img.shields.io/badge/NPM-5.3.0-blue.svg?style=flat-square)](http://nodejs.org)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)]()
